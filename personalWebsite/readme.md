@@ -28,9 +28,11 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 ## Recommended Tutorials
 
 CSS Basics - https://www.youtube.com/watch?v=s7ONvIgOWdM&list=PLqGj3iMvMa4IOmy04kDxh_hqODMqoeeCy
+
 HTML Basics - https://www.youtube.com/watch?v=NzzGt7EmXVw&list=PLqGj3iMvMa4KlJn1pMYPVV3eYzxJlWcON
 
 CSS Grid - https://www.youtube.com/watch?v=jV8B24rSN5o
+
 Flexbox - https://www.youtube.com/watch?v=JJSoEo8JSnc
 
 Learn SASS - https://www.youtube.com/watch?v=roywYSEPSvc
